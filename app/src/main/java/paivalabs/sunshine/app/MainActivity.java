@@ -11,7 +11,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.os.Build;
 
-
 public class MainActivity extends Activity {
 
     @Override
